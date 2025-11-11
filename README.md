@@ -45,3 +45,7 @@ Algum vendedor também é fornecedor?
 Relação de produtos fornecedores e estoques;
 Relação de nomes dos fornecedores e nomes dos produtos;
 
+## Modelo Lógico antigo
+
+![Modelo lógico proposto ](caminho/para/imagem.png)
+
