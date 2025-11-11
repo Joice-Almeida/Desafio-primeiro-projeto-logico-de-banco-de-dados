@@ -55,13 +55,13 @@ Relação de nomes dos fornecedores e nomes dos produtos;
 
 ### Modelo Lógico atual 
 
-![Modelo lógico proposto ](modelo_logico/modelo_logico_atual.jpg)
+![Modelo lógico proposto ](modelo_logico)
 
 
 
 
 
-Nesse modelo lógico atual foram adicionadas mais duas tabelas **Entrega** e **Pagamento** e uma alteração na tabela **Cliente** adicionando o atributo tipo de cliente para saber se o cliente é um PF ou PJ [para mais detalhes do modelo lógico clique aqui](modelo_logico/modelo conceitual ecommerce01.mwb).
+Nesse modelo lógico atual foram adicionadas mais duas tabelas **Entrega** e **Pagamento** e uma alteração na tabela **Cliente** adicionando o atributo tipo de cliente para saber se o cliente é um PF ou PJ [para mais detalhes do modelo lógico clique aqui](modelo_logico).
 
 
 
