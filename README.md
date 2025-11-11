@@ -47,5 +47,5 @@ Relação de nomes dos fornecedores e nomes dos produtos;
 
 ## Modelo Lógico antigo
 
-![Modelo lógico proposto ](Desafio-primeiro-projeto-logico-de-banco-de-dados/modelo_logico/modelo_logico_antigo.jpg)
+![Modelo lógico proposto ](modelo_logico/modelo_logico_antigo.jpg)
 
